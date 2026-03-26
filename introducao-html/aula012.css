@@ -1,0 +1,19 @@
+{
+padding: 0;
+box-sized: 
+
+}
+@media  and (max-width: 710px)  {
+    header (
+        pading: 20px;
+    )
+    
+}
+
+@media  and (max-width: 510px) {
+    header (
+        & nav {
+            display : none;
+        }
+    )
+}
